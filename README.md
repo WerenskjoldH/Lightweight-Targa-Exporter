@@ -5,7 +5,7 @@ I have needed to export Targa files a surpisingly amount of times over the past 
 This is a very lightweight Targa file exporter with the aim of simply plugging it into a program and exporting a targa file with ease.
 
 # How To Use
-Aight, so I made this as easy to implement as I possibly could just follow these two steps:
+Aight, so I made this as easy to implement as I possibly could, just follow these two steps:
 
   1. Add the file to your project
   2. Add <code>#include "InputManager.h"</code> to the top of your file
